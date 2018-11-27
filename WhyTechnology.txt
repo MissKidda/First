@@ -1,1 +1,4 @@
 I love technology because we can use it to solve a lot of modern day problems.
+I have opened this text file on my laptop and now I need to figure out how to save changes to the online version from my computer.
+
+This line was added from the command prompt
